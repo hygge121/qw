@@ -22,9 +22,9 @@
 
 ### 重要坐标
 
-住址：[比奇堡]([比奇堡_百度百科](https://baike.baidu.com/item/比奇堡/8275168))
+住址：[比奇堡]((https://baike.baidu.com/item/比奇堡/8275168))
 
-工作单位：[蟹堡王餐厅](https://baike.baidu.com/item/比奇堡/8275168))
+工作单位：[蟹堡王餐厅](https://baike.baidu.com/item/比奇堡/8275168)
 
 ### 日常作息表
 
